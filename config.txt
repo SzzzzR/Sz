@@ -1,0 +1,5 @@
+﻿token=-SJ7COnEwNwrZ9yhXLowleKcgNFzaXB6
+owner=464276425847996437
+prefix= Sz
+game= Szhelp
+stayinchannel=true
