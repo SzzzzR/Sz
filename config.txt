@@ -1,6 +1,0 @@
-token= WnKUVHlfnOiud9K9pIOBwDYbQ5OT7PUM
-owner= 464276425847996437
-prefix= S
-game= Type Shelp
-stayinchannel=true
-songinstatus=false 
