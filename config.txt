@@ -1,6 +1,6 @@
 token= NDQ2MTc3ODQ0MDI5MTYxNDgy.DxANDw.v2hcbA9mLaTbSNPCpF6sENrRqIQ
 owner= 464276425847996437 
-prefix= SS
+prefix= 90
 game= SS
 stayinchannel=true
 songinstatus=false
